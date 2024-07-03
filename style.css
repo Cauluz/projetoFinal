@@ -217,15 +217,26 @@ footer{
     gap: 30px;
 }
 
+
 .social ul li{
     list-style-type: none;
 }
 
+.contato p  a{
+    
+    text-decoration: none;
+    color: #333;
+   
+}
+
+
+
 ion-icon,
 svg{
     color:#780597;
-    font-size: 25px;
+    font-size: 30px;
     margin-bottom: 10px;
+    
    
 }
 
@@ -242,7 +253,7 @@ svg{
 
     .banner{
             
-            background-size: contain; /* Ajusta a imagem para caber no container sem cortar */
+            background-size: contain;
             margin-top: 85px;
             height: 22vh ;   
                   
